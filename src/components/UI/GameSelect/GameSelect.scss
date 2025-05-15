@@ -28,6 +28,7 @@
 
 		.button-add {
 			background-image: url("../../../assets/img/ribbon.png");
+			background-color: transparent;
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			width: 15vw;
@@ -159,10 +160,11 @@
 		justify-content: space-evenly;
 		text-align: center;
 		.u-btn-save {
+		  background-color: transparent;
 		  display: grid;
 		  align-items: center;
 		  width: 10vw;
-		  padding: 0.1vw 1vw;
+			padding: 0.5vw;
 		  background-image: url("../../../assets/img/victory_button.png");
 		  background-repeat: no-repeat;
 		  background-size: 100% 100%;
@@ -174,10 +176,11 @@
 		  }
 		}
 		.u-btn-close {
+		  background-color: transparent;
 		  display: grid;
 		  align-items: center;
 		  width: 10vw;
-		  padding: 0.1vw 1vw;
+			padding: 0.5vw;
 		  background-image: url("../../../assets/img/victory_button.png");
 		  background-repeat: no-repeat;
 		  background-size: 100% 100%;
